@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @DevandaMellinia
-- 👀 I’m interested in web programming
+- 👀 I’m interested in web, Python and JS programming, but also AI
 - 🌱 I’m currently learning backend developer and javascript Intermediate
 - 📫 How to reach me :
 - Twitter : @YuiKim0077
-- Instagram : @devandamillenia
+- Instagram : devandamellinia57
 - Youtube : @pinkysparkly2180
+- Medium : medium.com/@yuikim1199
 
 <!---
 DevandaMellinia/DevandaMellinia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
